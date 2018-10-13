@@ -4,7 +4,7 @@
   "background_color" : "#fafafa",
   "display" : "standalone",
   "scope" : "/",
-  "start_url" : "https://necrognosis.github.io/necrognosis",
+  "start_url" : "https://necrognosis.github.io/angular_pwa",
   "lang" : "",
   "orientation" : "undefined",
   "icons" : [
