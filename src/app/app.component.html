@@ -1,0 +1,10 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div style="text-align:center">
+  <!-- Prompt users if update is available 
+    ( Only when not automatically updating) -->
+  <span *ngIf="update">There is an update for you app!</span>
+  <h1>Jokes</h1>
+
+  <p *ngIf="joke">{{ joke.value }}</p>
+</div>
+
